@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">counting-android</string>
+    <string name="top_5_words">Top 5 Words</string>
+    <string name="welcome_please_type_the_name_of_the_text_file_to_begin">Welcome! Please type the name of the text file to begin</string>
+    <string name="text_file_name">Text File Name</string>
+    <string name="most_common_word">Most Common Word</string>
+</resources>
